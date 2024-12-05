@@ -1,0 +1,35 @@
+[
+  {
+    "name": "ABD",
+    "address": "1440 Ryan Place, Mississauga, Ontario L5C 1J6, Canada",
+    "postalCode": "L5C 1J6",
+    "latitude": "43.553596",
+    "longitude": "-79.654531",
+    "tags": [
+      "electronics",
+      ""
+    ]
+  },
+  {
+    "name": "DEF",
+    "address": "95 Queen Street South, Mississauga, Ontario L5M 1K7, Canada",
+    "postalCode": "L5M 1K7",
+    "latitude": "43.584593",
+    "longitude": "-79.71711",
+    "tags": [
+      "clothing",
+      ""
+    ]
+  },
+  {
+    "name": "GHI",
+    "address": "379a Kerr Street, Oakville, Ontario L6K 3B9, Canada",
+    "postalCode": "L6K 3B9",
+    "latitude": "43.444605",
+    "longitude": "-79.682849",
+    "tags": [
+      "family law",
+      ""
+    ]
+  }
+]
